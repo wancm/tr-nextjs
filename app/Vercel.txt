@@ -1,0 +1,10 @@
+Vercel Deployment Features
+- Persisting cached assets across deployments if it's unchanged.
+- Immutable deployments with a unique URL for every commit
+- Pages are autmatically statically optimized
+- Assets are compressed and served from Global Edge Network
+- API routes are autmatically optimized as Serverless Functions
+
+
+Vercel paid version
+- Next.js Analytics - Performance monitoring
